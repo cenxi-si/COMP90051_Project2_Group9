@@ -16,3 +16,4 @@ In this project, we are going to predict the prolific authors of a given documen
 - Alternative Approaches: Alternative_Approaches Folder
 - Final Prediction: NN_results.csv
 - Data sets: data Folder
+- Meet minutes: 3 meeting minutes are in the Meeting Minutes Folder
