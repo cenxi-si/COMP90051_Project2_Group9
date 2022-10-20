@@ -3,7 +3,7 @@
 
 ## Collective Team Details (Member's Name/Student ID)
 - Cenxi Si 1052447
-- Keyi Zhang
+- Keyi Zhang 1217718
 - Zihan Xu
 
 
@@ -12,7 +12,7 @@ In this project, we are going to predict the prolific authors of a given documen
 
 
 ## Files
-- Final Approach: NN_model.ipynb
+- Final Approach: final_approach.ipynb
 - Alternative Approaches: Alternative_Approaches Folder
 - Final Prediction: NN_results.csv
 - Data sets: data Folder
