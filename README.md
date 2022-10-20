@@ -1,5 +1,5 @@
 # COMP90051 Project2 Group9
-# Authorship classification of academic papers
+# Authorship Classification of Academic Papers
 
 ## Collective Team Details (Member's Name/Student ID)
 - Cenxi Si 1052447
